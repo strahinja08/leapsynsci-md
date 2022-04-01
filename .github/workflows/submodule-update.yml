@@ -19,8 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PARENT_REPOSITORY: 'strahinja08/leapsyn-sci'
-      CHECKOUT_BRANCH: 'dev'
-      PR_AGAINST_BRANCH: 'dev'
+      CHECKOUT_BRANCH: 'master'
+      PR_AGAINST_BRANCH: 'master'
       OWNER: 'strahinja08'
 
     steps:
