@@ -1,6 +1,6 @@
 ---
 name: Submodule Updates
- 
+
 #############################
 # Start the job on all push #
 #############################
@@ -9,7 +9,7 @@ on:
     branches: [master, main]
   pull_request:
     branches: [master, main]
- 
+
 ###############
 # Set the Job #
 ###############
@@ -22,14 +22,14 @@ jobs:
       CHECKOUT_BRANCH: 'dev'
       PR_AGAINST_BRANCH: 'dev'
       OWNER: 'strahinja08'
- 
+
     steps:
       ##########################
       # Checkout the code base #
       ##########################
       - name: Checkout Code
         uses: actions/checkout@v2
- 
+
       ####################################
       # Run the action against code base #
       ####################################
