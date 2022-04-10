@@ -1,6 +1,6 @@
 ---
 title: "Brain Awareness Week 2022"
-date: "2022-04-10"
+date: "2022-04-09"
 image: "baw_xiexww"
 label: "event"
 lang: "en"
