@@ -1,7 +1,7 @@
 ---
 title: "Svetski dan Parkinsonove bolesti"
 date: "2022-04-11"
-image: "Parkinson_2022_SRP_abbdlh"
+image: "parkins_mhtz44"
 label: "promotion"
 lang: "rs"
 ---
