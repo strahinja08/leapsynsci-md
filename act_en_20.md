@@ -1,7 +1,7 @@
 ---
 title: "World Parkinson's Day"
 date: "2022-04-11"
-image: "Parkinson_2022_eng_dwkksc"
+image: "parkins_mhtz44"
 label: "promotion"
 lang: "en"
 ---
