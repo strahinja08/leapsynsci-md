@@ -5,7 +5,7 @@ image: "slika-pub_prmdnp"
 label: "publication"
 lang: "rs"
 ---
-Veoma smo uzbudjeni smo da preyentujemo naš novi rad! Ovo je prva studija koja integriše analizu transkriptoma, proteoma, metabolita i fotosinteze tokom desikacije srpske ramonde. Isušivanje, ali ne i umiranje!
+Veoma smo uzbudjeni smo da prezentujemo naš novi rad! Ovo je prva studija koja integriše analizu transkriptoma, proteoma, metabolita i fotosinteze tokom desikacije srpske ramonde. Isušivanje, ali ne i umiranje!
 
 HTML Version: https://www.mdpi.com/2223-7747/11/9/1199 
 
