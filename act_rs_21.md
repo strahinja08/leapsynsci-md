@@ -1,12 +1,10 @@
-
 ---
 title: "LEAPSyn-SCI publikacija"
-date: "2022-04-09"
+date: "2021-04-11"
 image: "slika-pub_prmdnp"
 label: "publication"
 lang: "rs"
 ---
-
 Veoma smo uzbudjeni smo da preyentujemo naš novi rad! Ovo je prva studija koja integriše analizu transkriptoma, proteoma, metabolita i fotosinteze tokom desikacije srpske ramonde. Isušivanje, ali ne i umiranje!
 
 HTML Version: https://www.mdpi.com/2223-7747/11/9/1199 
