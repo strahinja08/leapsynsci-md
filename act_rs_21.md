@@ -1,6 +1,6 @@
 ---
 title: "LEAPSyn-SCI publikacija"
-date: "2021-04-11"
+date: "2022-05-09"
 image: "slika-pub_prmdnp"
 label: "publication"
 lang: "rs"
