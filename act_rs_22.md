@@ -1,8 +1,10 @@
+---
 title: "Dan fascinacije biljkama"
 date: "2022-05-18"
 image: "fasc_day_c9lrjn"
 label: "even"
 lang: "rs"
+---
 
 Biljke nas opčinjavaju svakog dana. Rešenja koja pronalaze da bi preživele na najraznovrsnijim staništima su fascinantna!<br/>
 Ramonda serbica, endemska biljka vaskrsnica može da preživi duge periode drastične dehidratacije i da se već jedan dan nakon zalivanja potpuno oporavi. Sačuvajmo ovu jedinstvenu i ugroženu vrstu!
