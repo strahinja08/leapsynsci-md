@@ -1,8 +1,8 @@
 ---
-title: "Dan fascinacije biljkama"
-date: "2022-05-018"
-image: "fasc_day_c3hvoq"
-label: "event"
+title: "LEAPSyn-SCI publikacija"
+date: "2022-05-09"
+image: "slika-pub_prmdnp"
+label: "publication"
 lang: "rs"
 ---
 Veoma smo uzbudjeni smo da prezentujemo naš novi rad! Ovo je prva studija koja integriše analizu transkriptoma, proteoma, metabolita i fotosinteze tokom desikacije srpske ramonde. Isušivanje, ali ne i umiranje!
