@@ -1,7 +1,7 @@
 ---
 title: "Fascination plant day"
 date: "2022-05-18"
-image: ""
+image: "fasc_day_c3hvoq"
 label: "event"
 lang: "en"
 ---
