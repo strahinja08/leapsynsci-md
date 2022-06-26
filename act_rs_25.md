@@ -7,7 +7,7 @@ lang: "rs"
 ---
 Zadovoljstvo nam je da vas pozovemo na Dan otvorenih vrata na našem Institutu za molekularnu genetiku i genetičko inženjeristvo da se direktno upoznate sa aktivnostima LEAPSyn-SCI projekta!
 <br/><br/> 
-Tema: Proizvodnja i prečišćavanje rekombinantnih LEA proteina iz ramonde: izazovi LEAPSyn-SCI projekta
+Tema: Proizvodnja i prečišćavanje rekombinantnih LEA proteina iz ramonde: izazovi LEAPSyn-SCI projekta.
 <br/><br/> 
 Srednjoškolci treće i četvrte godine srednjih škola i prve dve godine fakulteta požurite, broj mesta je ograničen na 20!
 
@@ -17,7 +17,7 @@ Druženje je zakazano od 9:30 do 14:00 časova 13. jula ove godine. Garantujemo 
 <br/>
 Agendu i detaljan program delimo u utorak!
 Vidimo se!
-<br/>
+<br/><br/>
 Prijavite se preko sledećeg linka:
 
 https://docs.google.com/forms/d/e/1FAIpQLSf3S9XcKLUYwP_jNXap2kh4HRHuMw82VUnHjR1l_Q34NKXr0g/viewform
