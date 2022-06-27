@@ -1,6 +1,6 @@
 ---
 title: "LEAPSyn-SCI publikacija"
-date: "2022-05-25"
+date: "2022-06-27"
 image: "oddPSfin_vro8ow"
 label: "event"
 lang: "rs"
