@@ -1,5 +1,5 @@
 ---
-title: "LEAPSyn-SCI publikacija"
+title: "LEAPSyn-SCI dan otvorenih vrata"
 date: "2022-06-27"
 image: "oddPSfin_vro8ow"
 label: "event"
