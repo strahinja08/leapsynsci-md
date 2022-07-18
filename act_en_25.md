@@ -3,7 +3,7 @@ title: "LEAPSyn-SCI dan otvorenih vrata"
 date: "2022-06-27"
 image: "oddPSfin_vro8ow"
 label: "event"
-lang: "rs"
+lang: "en"
 ---
 Zadovoljstvo nam je da vas pozovemo na Dan otvorenih vrata na našem Institutu za molekularnu genetiku i genetičko inženjeristvo da se direktno upoznate sa aktivnostima LEAPSyn-SCI projekta!
 <br/><br/> 
